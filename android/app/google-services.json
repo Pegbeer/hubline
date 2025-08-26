@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "421124290957",
+    "project_id": "hubline-a1e00",
+    "storage_bucket": "hubline-a1e00.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421124290957:android:af3a7880d7ff2a52dfe5c4",
+        "android_client_info": {
+          "package_name": "me.pegbeer.hubline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421124290957-d25gr2c3d6auvaiqpvm770qi5ljdulm6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.pegbeer.hubline",
+            "certificate_hash": "49b80970b33e7d41d257cfc66abe56d477c94a0e"
+          }
+        },
+        {
+          "client_id": "421124290957-bi5soi8aodcsrlrlkf4m9je0mgflgdtk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_PzHyNyWdW5ejo_ASvcTxmoHvi4lVTns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421124290957-bi5soi8aodcsrlrlkf4m9je0mgflgdtk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "421124290957-udk6amr7alpv7rm210nb9v2brsvv6f1m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "me.pegbeer.hubline"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
